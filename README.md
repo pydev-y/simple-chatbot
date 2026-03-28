@@ -158,3 +158,9 @@ uvicorn app:app --reload --port 8001
 ## License
 
 This project is open-source and available for learning and experimentation.
+
+
+## Contact
+
+Email: mystt06@gmail.com
+telegram: @yusuf_py
