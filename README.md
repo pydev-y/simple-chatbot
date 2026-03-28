@@ -162,5 +162,5 @@ This project is open-source and available for learning and experimentation.
 
 ## Contact
 
-Email: mystt06@gmail.com
-telegram: @yusuf_py
+- Email: mystt06@gmail.com
+- telegram: @yusuf_py
